@@ -87,9 +87,9 @@ npm run test:a11y       # Acessibilidade
 npm run lighthouse      # Auditorias Lighthouse
 ```
 
-**Última execução local informada (21/10/2026):** 112 testes Playwright aprovados, nenhuma falha e dois testes intencionalmente ignorados (capturas mobile fora do projeto mobile). Typecheck, lint e build também foram aprovados.
+**Verificação local (21/10/2026):** 112 testes Playwright aprovados, nenhuma falha e dois testes intencionalmente ignorados (capturas mobile fora do projeto mobile). Typecheck, lint e build também foram aprovados.
 
-Os resultados de Lighthouse, inclusive métricas abaixo das metas do desafio, estão registrados na [auditoria](docs/STAGE5_REPORT.md) e em [docs/AUDIT.md](docs/AUDIT.md).
+Os resultados de Lighthouse, inclusive métricas abaixo das metas do desafio, estão registrados em [docs/AUDIT.md](docs/AUDIT.md).
 
 ## Arquitetura e documentação
 

@@ -1,4 +1,4 @@
-# Contratos REST — auditoria final
+# Contratos REST — Kurio
 
 Contratos da Etapa 4 preservados. Eventos completos em [SOCKET_EVENTS.md](SOCKET_EVENTS.md); execução em [AUDIT.md](AUDIT.md). Metadados estendidos vêm do DTO opcional `CatalogNft.details`: description, provenance, contract e royalties, todos strings. Rede coerente com o NFT; contrato e direitos tiveram seus valores invertidos na UI corrigidos. O campo é opcional para bancos v4 anteriores; o cliente informa ausências e usa descrição/rede recebidas, sem fabricar metadados. Reset carrega as fixtures novas.
 

@@ -1,4 +1,4 @@
-# Matriz de conformidade — Etapa 5
+# Matriz de conformidade — Kurio
 
 Referência: [README oficial completo, seções 1–12](https://github.com/junglegaming/frontend-challenge), consultado em 21/10/2026, e requisitos das etapas solicitadas. Esta matriz descreve a implementação observada; não substitui os relatórios de execução. Resultados finais e limitações em [STAGE5_REPORT.md](STAGE5_REPORT.md). As evidências apontam arquivos reais e nomes/trechos de testes encontrados neles.
 
