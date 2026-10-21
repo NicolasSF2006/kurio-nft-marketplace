@@ -1,0 +1,67 @@
+{
+  "name": "kurio-nft-marketplace",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint --deny-warnings",
+    "preview": "vite preview",
+    "dev:nomocks": "vite --mode nomocks",
+    "build:demo": "tsc -b && vite build --mode demo",
+    "typecheck": "tsc -b",
+    "test": "node scripts/playwright.mjs test",
+    "test:e2e": "node scripts/playwright.mjs test",
+    "test:e2e:demo": "node scripts/playwright.mjs demo test",
+    "test:report": "node scripts/playwright.mjs show-report",
+    "test:install": "node scripts/playwright.mjs install chromium",
+    "lighthouse": "node scripts/lighthouse.mjs",
+    "lighthouse:desktop": "node scripts/lighthouse.mjs desktop",
+    "lighthouse:mobile": "node scripts/lighthouse.mjs mobile",
+    "check": "npm run typecheck && npm run lint && npm run build",
+    "images:optimize": "node scripts/optimize-images.mjs",
+    "test:visual": "node scripts/playwright.mjs test visual.spec.ts",
+    "test:a11y": "node scripts/playwright.mjs test accessibility.spec.ts",
+    "visual:report": "node scripts/visual-report.mjs",
+    "fonts:optimize": "node scripts/optimize-font.mjs"
+  },
+  "dependencies": {
+    "@mswjs/socket.io-binding": "0.2.0",
+    "@tanstack/react-query": "5.104.5",
+    "@tanstack/react-router": "1.170.45",
+    "axios": "1.20.0",
+    "class-variance-authority": "0.7.1",
+    "cn": "0.5.0",
+    "decimal.js": "10.6.0",
+    "msw": "2.15.0",
+    "radix-ui": "1.8.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "socket.io-client": "4.8.4"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.14.0",
+    "@playwright/test": "1.64.1",
+    "@tailwindcss/vite": "4.3.3",
+    "@types/node": "24.19.2",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "6.1.2",
+    "lighthouse": "13.5.0",
+    "oxlint": "1.89.0",
+    "sharp": "0.35.5",
+    "tailwindcss": "4.3.3",
+    "typescript": "7.0.2",
+    "vite": "8.3.4",
+    "wawoff2": "2.0.1"
+  },
+  "engines": {
+    "node": ">=24.11.0 <25"
+  },
+  "msw": {
+    "workerDirectory": [
+      "public"
+    ]
+  }
+}

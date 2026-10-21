@@ -1,0 +1,10 @@
+{
+  "source": "public/fonts/roboto-mono-variable.ttf",
+  "output": "public/fonts/roboto-mono-variable.woff2",
+  "originalBytes": 183700,
+  "compressedBytes": 105240,
+  "sourceSha256": "66a80e79d17e4c7cabd162e2916578a4cc08fd19eef6e2a643305eae9c567b2b",
+  "outputSha256": "9eaa70f26914cc8df462900f5e622ab50d4b6e2070430c3f18e007af958f920d",
+  "tool": "wawoff2 2.0.1 (Google WOFF2/WebAssembly)",
+  "conditions": "Full variable font compression; no glyph subsetting or changes to weight/style. Original TTF and OFL preserved."
+}

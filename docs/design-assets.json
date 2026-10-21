@@ -1,0 +1,1851 @@
+{
+  "5053c.svg": {
+    "file": "public/assets/figma/5053c.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgEllipse5"
+      },
+      {
+        "frame": "login",
+        "variable": "imgEllipse5"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgEllipse5"
+      }
+    ]
+  },
+  "7c6d1.svg": {
+    "file": "public/assets/figma/7c6d1.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgLine6"
+      },
+      {
+        "frame": "login",
+        "variable": "imgLine6"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgLine6"
+      }
+    ]
+  },
+  "2ac35.svg": {
+    "file": "public/assets/figma/2ac35.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgLine5"
+      },
+      {
+        "frame": "login",
+        "variable": "imgLine5"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgLine5"
+      }
+    ]
+  },
+  "8f387.png": {
+    "file": "public/assets/figma/8f387.png",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgFrame136"
+      },
+      {
+        "frame": "detail",
+        "variable": "imgNftCollectionArtwork04"
+      },
+      {
+        "frame": "cart",
+        "variable": "imgNftCartArtwork6"
+      },
+      {
+        "frame": "checkout",
+        "variable": "imgNftReceiptArtwork1"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgNftReceiptArtwork1"
+      },
+      {
+        "frame": "login",
+        "variable": "imgNftAuthArtwork1"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgNftAuthArtwork1"
+      },
+      {
+        "frame": "mobile-home",
+        "variable": "imgMobileNftArtwork1"
+      },
+      {
+        "frame": "mobile-detail",
+        "variable": "imgMobileNftHeroArtwork"
+      },
+      {
+        "frame": "mobile-cart",
+        "variable": "imgRectangle106"
+      }
+    ]
+  },
+  "83794.png": {
+    "file": "public/assets/figma/83794.png",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgNftArtwork18"
+      },
+      {
+        "frame": "detail",
+        "variable": "imgNftCollectionArtwork06"
+      },
+      {
+        "frame": "cart",
+        "variable": "imgNftCartArtwork7"
+      },
+      {
+        "frame": "checkout",
+        "variable": "imgNftReceiptArtwork2"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgNftReceiptArtwork2"
+      },
+      {
+        "frame": "login",
+        "variable": "imgNftAuthArtwork6"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgNftAuthArtwork6"
+      },
+      {
+        "frame": "mobile-home",
+        "variable": "imgMobileNftArtwork2"
+      },
+      {
+        "frame": "mobile-cart",
+        "variable": "imgRectangle108"
+      }
+    ]
+  },
+  "9add2.png": {
+    "file": "public/assets/figma/9add2.png",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgNftArtwork05"
+      },
+      {
+        "frame": "detail",
+        "variable": "imgNftCollectionArtwork08"
+      },
+      {
+        "frame": "cart",
+        "variable": "imgNftCartArtwork8"
+      },
+      {
+        "frame": "checkout",
+        "variable": "imgNftReceiptArtwork3"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgNftReceiptArtwork3"
+      },
+      {
+        "frame": "login",
+        "variable": "imgNftAuthArtwork4"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgNftAuthArtwork4"
+      },
+      {
+        "frame": "mobile-home",
+        "variable": "imgMobileNftArtwork5"
+      },
+      {
+        "frame": "mobile-cart",
+        "variable": "imgRectangle110"
+      }
+    ]
+  },
+  "b7cfc.png": {
+    "file": "public/assets/figma/b7cfc.png",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgNftArtwork09"
+      },
+      {
+        "frame": "detail",
+        "variable": "imgNftCollectionArtwork09"
+      },
+      {
+        "frame": "cart",
+        "variable": "imgNftCartArtwork4"
+      },
+      {
+        "frame": "login",
+        "variable": "imgNftAuthArtwork3"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgNftAuthArtwork3"
+      },
+      {
+        "frame": "mobile-home",
+        "variable": "imgMobileNftArtwork6"
+      },
+      {
+        "frame": "mobile-cart",
+        "variable": "imgRectangle112"
+      }
+    ]
+  },
+  "66cfd.svg": {
+    "file": "public/assets/figma/66cfd.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgActiveUnderline"
+      },
+      {
+        "frame": "login",
+        "variable": "imgActiveUnderline"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgActiveUnderline"
+      },
+      {
+        "frame": "profile",
+        "variable": "imgActiveUnderline"
+      },
+      {
+        "frame": "wallets",
+        "variable": "imgActiveUnderline"
+      }
+    ]
+  },
+  "bd8c9.svg": {
+    "file": "public/assets/figma/bd8c9.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgSearchIcon"
+      },
+      {
+        "frame": "detail",
+        "variable": "imgSearchIcon"
+      },
+      {
+        "frame": "cart",
+        "variable": "imgSearchIcon"
+      },
+      {
+        "frame": "checkout",
+        "variable": "imgSearchIcon"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgSearchIcon"
+      },
+      {
+        "frame": "login",
+        "variable": "imgSearchIcon"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgSearchIcon"
+      },
+      {
+        "frame": "profile",
+        "variable": "imgSearchIcon"
+      },
+      {
+        "frame": "wallets",
+        "variable": "imgSearchIcon"
+      }
+    ]
+  },
+  "c0c08.svg": {
+    "file": "public/assets/figma/c0c08.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgCartIcon"
+      },
+      {
+        "frame": "detail",
+        "variable": "imgCartIcon"
+      },
+      {
+        "frame": "cart",
+        "variable": "imgCartIcon"
+      },
+      {
+        "frame": "checkout",
+        "variable": "imgCartIcon"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgCartIcon"
+      },
+      {
+        "frame": "login",
+        "variable": "imgCartIcon"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgCartIcon"
+      },
+      {
+        "frame": "profile",
+        "variable": "imgCartIcon"
+      },
+      {
+        "frame": "wallets",
+        "variable": "imgCartIcon"
+      }
+    ]
+  },
+  "aa630.svg": {
+    "file": "public/assets/figma/aa630.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgBadge"
+      },
+      {
+        "frame": "detail",
+        "variable": "imgBadge"
+      },
+      {
+        "frame": "cart",
+        "variable": "imgBadge"
+      },
+      {
+        "frame": "checkout",
+        "variable": "imgBadge"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgBadge"
+      },
+      {
+        "frame": "login",
+        "variable": "imgBadge"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgBadge"
+      },
+      {
+        "frame": "profile",
+        "variable": "imgBadge"
+      },
+      {
+        "frame": "wallets",
+        "variable": "imgBadge"
+      }
+    ]
+  },
+  "62554.svg": {
+    "file": "public/assets/figma/62554.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgLogout"
+      },
+      {
+        "frame": "detail",
+        "variable": "imgLogout"
+      },
+      {
+        "frame": "cart",
+        "variable": "imgLogout"
+      },
+      {
+        "frame": "checkout",
+        "variable": "imgLogout"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgLogout"
+      },
+      {
+        "frame": "profile",
+        "variable": "imgLogout"
+      },
+      {
+        "frame": "wallets",
+        "variable": "imgLogout"
+      }
+    ]
+  },
+  "57141.svg": {
+    "file": "public/assets/figma/57141.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgLine1"
+      },
+      {
+        "frame": "login",
+        "variable": "imgLine1"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgLine1"
+      },
+      {
+        "frame": "profile",
+        "variable": "imgLine1"
+      },
+      {
+        "frame": "wallets",
+        "variable": "imgLine1"
+      }
+    ]
+  },
+  "dc76c.svg": {
+    "file": "public/assets/figma/dc76c.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgRectangle3"
+      }
+    ]
+  },
+  "a11b7.svg": {
+    "file": "public/assets/figma/a11b7.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgGroup4"
+      }
+    ]
+  },
+  "7e373.svg": {
+    "file": "public/assets/figma/7e373.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgArrowDown2"
+      }
+    ]
+  },
+  "ba93b.svg": {
+    "file": "public/assets/figma/ba93b.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgLine3"
+      }
+    ]
+  },
+  "1fbca.svg": {
+    "file": "public/assets/figma/1fbca.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgArrowRight2"
+      }
+    ]
+  },
+  "e0393.svg": {
+    "file": "public/assets/figma/e0393.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgArrowRight"
+      }
+    ]
+  },
+  "68d8c.svg": {
+    "file": "public/assets/figma/68d8c.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgMaskGroup"
+      }
+    ]
+  },
+  "99280.svg": {
+    "file": "public/assets/figma/99280.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgFrame108"
+      },
+      {
+        "frame": "detail",
+        "variable": "imgFrame108"
+      },
+      {
+        "frame": "cart",
+        "variable": "imgFrame108"
+      },
+      {
+        "frame": "checkout",
+        "variable": "imgFrame108"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgFrame108"
+      }
+    ]
+  },
+  "d48dd.svg": {
+    "file": "public/assets/figma/d48dd.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgFrame109"
+      },
+      {
+        "frame": "detail",
+        "variable": "imgFrame109"
+      },
+      {
+        "frame": "cart",
+        "variable": "imgFrame109"
+      },
+      {
+        "frame": "checkout",
+        "variable": "imgFrame109"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgFrame109"
+      }
+    ]
+  },
+  "b4111.svg": {
+    "file": "public/assets/figma/b4111.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgFrame110"
+      },
+      {
+        "frame": "detail",
+        "variable": "imgFrame110"
+      },
+      {
+        "frame": "cart",
+        "variable": "imgFrame110"
+      },
+      {
+        "frame": "checkout",
+        "variable": "imgFrame110"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgFrame110"
+      }
+    ]
+  },
+  "b8b84.svg": {
+    "file": "public/assets/figma/b8b84.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgFrame111"
+      },
+      {
+        "frame": "detail",
+        "variable": "imgFrame111"
+      },
+      {
+        "frame": "cart",
+        "variable": "imgFrame111"
+      },
+      {
+        "frame": "checkout",
+        "variable": "imgFrame111"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgFrame111"
+      }
+    ]
+  },
+  "ca2da.svg": {
+    "file": "public/assets/figma/ca2da.svg",
+    "sources": [
+      {
+        "frame": "home",
+        "variable": "imgFrame112"
+      },
+      {
+        "frame": "detail",
+        "variable": "imgFrame112"
+      },
+      {
+        "frame": "cart",
+        "variable": "imgFrame112"
+      },
+      {
+        "frame": "checkout",
+        "variable": "imgFrame112"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgFrame112"
+      }
+    ]
+  },
+  "bec29.svg": {
+    "file": "public/assets/figma/bec29.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgMessage"
+      }
+    ]
+  },
+  "c902b.svg": {
+    "file": "public/assets/figma/c902b.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgActiveUnderline"
+      },
+      {
+        "frame": "cart",
+        "variable": "imgActiveUnderline"
+      },
+      {
+        "frame": "checkout",
+        "variable": "imgActiveUnderline"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgActiveUnderline"
+      }
+    ]
+  },
+  "9ae7b.svg": {
+    "file": "public/assets/figma/9ae7b.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgFrame238"
+      }
+    ]
+  },
+  "19a5f.svg": {
+    "file": "public/assets/figma/19a5f.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgStar"
+      }
+    ]
+  },
+  "89357.svg": {
+    "file": "public/assets/figma/89357.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgStar1"
+      }
+    ]
+  },
+  "571ff.svg": {
+    "file": "public/assets/figma/571ff.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgLine2"
+      }
+    ]
+  },
+  "091e2.svg": {
+    "file": "public/assets/figma/091e2.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgEllipse24"
+      }
+    ]
+  },
+  "a9dab.svg": {
+    "file": "public/assets/figma/a9dab.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgEllipse25"
+      },
+      {
+        "frame": "mobile-detail",
+        "variable": "imgEllipse25"
+      }
+    ]
+  },
+  "c4842.svg": {
+    "file": "public/assets/figma/c4842.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgEllipse26"
+      },
+      {
+        "frame": "mobile-detail",
+        "variable": "imgEllipse26"
+      }
+    ]
+  },
+  "6605d.svg": {
+    "file": "public/assets/figma/6605d.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgEllipse27"
+      },
+      {
+        "frame": "mobile-detail",
+        "variable": "imgEllipse27"
+      }
+    ]
+  },
+  "7d18c.svg": {
+    "file": "public/assets/figma/7d18c.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgFrame"
+      }
+    ]
+  },
+  "a803c.svg": {
+    "file": "public/assets/figma/a803c.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgFrame1"
+      }
+    ]
+  },
+  "d427d.svg": {
+    "file": "public/assets/figma/d427d.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgHeart1"
+      }
+    ]
+  },
+  "a4abe.svg": {
+    "file": "public/assets/figma/a4abe.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgLinkedin"
+      }
+    ]
+  },
+  "fbcbd.svg": {
+    "file": "public/assets/figma/fbcbd.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgTwitter"
+      }
+    ]
+  },
+  "47069.svg": {
+    "file": "public/assets/figma/47069.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgLine6"
+      }
+    ]
+  },
+  "73b34.svg": {
+    "file": "public/assets/figma/73b34.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgLine5"
+      },
+      {
+        "frame": "cart",
+        "variable": "imgLine7"
+      }
+    ]
+  },
+  "8db8a.svg": {
+    "file": "public/assets/figma/8db8a.svg",
+    "sources": [
+      {
+        "frame": "detail",
+        "variable": "imgCarouselDots"
+      }
+    ]
+  },
+  "1690e.svg": {
+    "file": "public/assets/figma/1690e.svg",
+    "sources": [
+      {
+        "frame": "cart",
+        "variable": "imgLine2"
+      }
+    ]
+  },
+  "4453a.svg": {
+    "file": "public/assets/figma/4453a.svg",
+    "sources": [
+      {
+        "frame": "cart",
+        "variable": "imgFrame"
+      }
+    ]
+  },
+  "f8641.svg": {
+    "file": "public/assets/figma/f8641.svg",
+    "sources": [
+      {
+        "frame": "cart",
+        "variable": "imgFrame1"
+      },
+      {
+        "frame": "mobile-detail",
+        "variable": "imgFrame1"
+      }
+    ]
+  },
+  "e196c.svg": {
+    "file": "public/assets/figma/e196c.svg",
+    "sources": [
+      {
+        "frame": "cart",
+        "variable": "imgDelete"
+      }
+    ]
+  },
+  "b1dba.svg": {
+    "file": "public/assets/figma/b1dba.svg",
+    "sources": [
+      {
+        "frame": "cart",
+        "variable": "imgLine3"
+      }
+    ]
+  },
+  "699c0.svg": {
+    "file": "public/assets/figma/699c0.svg",
+    "sources": [
+      {
+        "frame": "cart",
+        "variable": "imgCarouselDots"
+      }
+    ]
+  },
+  "510ea.svg": {
+    "file": "public/assets/figma/510ea.svg",
+    "sources": [
+      {
+        "frame": "checkout",
+        "variable": "imgArrowDown"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgArrowDown"
+      }
+    ]
+  },
+  "64528.svg": {
+    "file": "public/assets/figma/64528.svg",
+    "sources": [
+      {
+        "frame": "checkout",
+        "variable": "imgArrowDown1"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgArrowDown1"
+      }
+    ]
+  },
+  "ec1ea.svg": {
+    "file": "public/assets/figma/ec1ea.svg",
+    "sources": [
+      {
+        "frame": "checkout",
+        "variable": "imgEllipse31"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgEllipse31"
+      }
+    ]
+  },
+  "1f432.svg": {
+    "file": "public/assets/figma/1f432.svg",
+    "sources": [
+      {
+        "frame": "checkout",
+        "variable": "imgLine2"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgLine2"
+      }
+    ]
+  },
+  "84839.svg": {
+    "file": "public/assets/figma/84839.svg",
+    "sources": [
+      {
+        "frame": "checkout",
+        "variable": "imgLine3"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgLine3"
+      }
+    ]
+  },
+  "fbc42.svg": {
+    "file": "public/assets/figma/fbc42.svg",
+    "sources": [
+      {
+        "frame": "checkout",
+        "variable": "imgEllipse32"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgEllipse32"
+      }
+    ]
+  },
+  "79e5b.svg": {
+    "file": "public/assets/figma/79e5b.svg",
+    "sources": [
+      {
+        "frame": "checkout",
+        "variable": "imgFrame323"
+      },
+      {
+        "frame": "confirmation",
+        "variable": "imgFrame323"
+      }
+    ]
+  },
+  "21283.svg": {
+    "file": "public/assets/figma/21283.svg",
+    "sources": [
+      {
+        "frame": "confirmation",
+        "variable": "imgGroup"
+      }
+    ]
+  },
+  "3cc99.svg": {
+    "file": "public/assets/figma/3cc99.svg",
+    "sources": [
+      {
+        "frame": "confirmation",
+        "variable": "imgLine10"
+      }
+    ]
+  },
+  "07b52.svg": {
+    "file": "public/assets/figma/07b52.svg",
+    "sources": [
+      {
+        "frame": "confirmation",
+        "variable": "imgLine4"
+      }
+    ]
+  },
+  "339b7.svg": {
+    "file": "public/assets/figma/339b7.svg",
+    "sources": [
+      {
+        "frame": "confirmation",
+        "variable": "imgX"
+      }
+    ]
+  },
+  "3c6c3.svg": {
+    "file": "public/assets/figma/3c6c3.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgX"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgX"
+      }
+    ]
+  },
+  "88a3c.svg": {
+    "file": "public/assets/figma/88a3c.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgVector"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgVector"
+      },
+      {
+        "frame": "mobile-login",
+        "variable": "imgVector"
+      },
+      {
+        "frame": "mobile-signup",
+        "variable": "imgVector"
+      }
+    ]
+  },
+  "75804.svg": {
+    "file": "public/assets/figma/75804.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgVector1"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgVector1"
+      },
+      {
+        "frame": "mobile-login",
+        "variable": "imgVector1"
+      },
+      {
+        "frame": "mobile-signup",
+        "variable": "imgVector1"
+      }
+    ]
+  },
+  "a3c98.svg": {
+    "file": "public/assets/figma/a3c98.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgGroup"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgGroup"
+      },
+      {
+        "frame": "mobile-login",
+        "variable": "imgGroup"
+      },
+      {
+        "frame": "mobile-signup",
+        "variable": "imgGroup"
+      }
+    ]
+  },
+  "1c266.svg": {
+    "file": "public/assets/figma/1c266.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgVector2"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgVector2"
+      },
+      {
+        "frame": "mobile-login",
+        "variable": "imgVector2"
+      },
+      {
+        "frame": "mobile-signup",
+        "variable": "imgVector2"
+      }
+    ]
+  },
+  "1174b.svg": {
+    "file": "public/assets/figma/1174b.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgVector3"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgVector3"
+      },
+      {
+        "frame": "mobile-login",
+        "variable": "imgVector3"
+      },
+      {
+        "frame": "mobile-signup",
+        "variable": "imgVector3"
+      }
+    ]
+  },
+  "5f1dc.svg": {
+    "file": "public/assets/figma/5f1dc.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgVector4"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgVector4"
+      },
+      {
+        "frame": "mobile-login",
+        "variable": "imgVector4"
+      },
+      {
+        "frame": "mobile-signup",
+        "variable": "imgVector4"
+      }
+    ]
+  },
+  "e1073.svg": {
+    "file": "public/assets/figma/e1073.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgVector5"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgVector5"
+      },
+      {
+        "frame": "mobile-login",
+        "variable": "imgVector5"
+      },
+      {
+        "frame": "mobile-signup",
+        "variable": "imgVector5"
+      }
+    ]
+  },
+  "5561e.svg": {
+    "file": "public/assets/figma/5561e.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgFacebook1"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgFacebook1"
+      },
+      {
+        "frame": "mobile-login",
+        "variable": "imgFacebook1"
+      },
+      {
+        "frame": "mobile-signup",
+        "variable": "imgFacebook1"
+      }
+    ]
+  },
+  "f74bc.svg": {
+    "file": "public/assets/figma/f74bc.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgLogout"
+      }
+    ]
+  },
+  "29138.svg": {
+    "file": "public/assets/figma/29138.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgGroup4"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgGroup4"
+      }
+    ]
+  },
+  "88722.svg": {
+    "file": "public/assets/figma/88722.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgLine3"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgLine3"
+      }
+    ]
+  },
+  "a1082.svg": {
+    "file": "public/assets/figma/a1082.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgArrowDown2"
+      }
+    ]
+  },
+  "51942.svg": {
+    "file": "public/assets/figma/51942.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgLine4"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgLine4"
+      }
+    ]
+  },
+  "3e723.svg": {
+    "file": "public/assets/figma/3e723.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgShopping1"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgShopping1"
+      }
+    ]
+  },
+  "149fd.svg": {
+    "file": "public/assets/figma/149fd.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgHeart1"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgHeart1"
+      }
+    ]
+  },
+  "dec44.svg": {
+    "file": "public/assets/figma/dec44.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgFrame"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgFrame"
+      }
+    ]
+  },
+  "5cb53.svg": {
+    "file": "public/assets/figma/5cb53.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgHide"
+      }
+    ]
+  },
+  "f0bae.svg": {
+    "file": "public/assets/figma/f0bae.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgLine7"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgLine7"
+      }
+    ]
+  },
+  "10a7c.svg": {
+    "file": "public/assets/figma/10a7c.svg",
+    "sources": [
+      {
+        "frame": "login",
+        "variable": "imgLine8"
+      },
+      {
+        "frame": "signup",
+        "variable": "imgLine8"
+      }
+    ]
+  },
+  "400d7.svg": {
+    "file": "public/assets/figma/400d7.svg",
+    "sources": [
+      {
+        "frame": "signup",
+        "variable": "imgLogout"
+      }
+    ]
+  },
+  "feb57.svg": {
+    "file": "public/assets/figma/feb57.svg",
+    "sources": [
+      {
+        "frame": "signup",
+        "variable": "imgArrowDown2"
+      }
+    ]
+  },
+  "f5a88.svg": {
+    "file": "public/assets/figma/f5a88.svg",
+    "sources": [
+      {
+        "frame": "signup",
+        "variable": "imgHide"
+      }
+    ]
+  },
+  "76790.svg": {
+    "file": "public/assets/figma/76790.svg",
+    "sources": [
+      {
+        "frame": "profile",
+        "variable": "imgHide"
+      }
+    ]
+  },
+  "61106.svg": {
+    "file": "public/assets/figma/61106.svg",
+    "sources": [
+      {
+        "frame": "profile",
+        "variable": "imgArrowDown"
+      },
+      {
+        "frame": "wallets",
+        "variable": "imgArrowDown"
+      }
+    ]
+  },
+  "55e96.svg": {
+    "file": "public/assets/figma/55e96.svg",
+    "sources": [
+      {
+        "frame": "profile",
+        "variable": "imgUser"
+      }
+    ]
+  },
+  "8a4e9.svg": {
+    "file": "public/assets/figma/8a4e9.svg",
+    "sources": [
+      {
+        "frame": "profile",
+        "variable": "imgLocation"
+      }
+    ]
+  },
+  "0586d.svg": {
+    "file": "public/assets/figma/0586d.svg",
+    "sources": [
+      {
+        "frame": "profile",
+        "variable": "imgShopping1"
+      },
+      {
+        "frame": "wallets",
+        "variable": "imgShopping1"
+      }
+    ]
+  },
+  "8b13b.svg": {
+    "file": "public/assets/figma/8b13b.svg",
+    "sources": [
+      {
+        "frame": "profile",
+        "variable": "imgHeart1"
+      },
+      {
+        "frame": "wallets",
+        "variable": "imgHeart1"
+      }
+    ]
+  },
+  "83e14.svg": {
+    "file": "public/assets/figma/83e14.svg",
+    "sources": [
+      {
+        "frame": "profile",
+        "variable": "imgActivity"
+      },
+      {
+        "frame": "wallets",
+        "variable": "imgActivity"
+      }
+    ]
+  },
+  "65d5d.svg": {
+    "file": "public/assets/figma/65d5d.svg",
+    "sources": [
+      {
+        "frame": "profile",
+        "variable": "imgDownload"
+      },
+      {
+        "frame": "wallets",
+        "variable": "imgDownload"
+      }
+    ]
+  },
+  "8d6ff.svg": {
+    "file": "public/assets/figma/8d6ff.svg",
+    "sources": [
+      {
+        "frame": "profile",
+        "variable": "imgDangerTriangle"
+      },
+      {
+        "frame": "wallets",
+        "variable": "imgDangerTriangle"
+      }
+    ]
+  },
+  "dfa3f.svg": {
+    "file": "public/assets/figma/dfa3f.svg",
+    "sources": [
+      {
+        "frame": "profile",
+        "variable": "imgLine2"
+      },
+      {
+        "frame": "wallets",
+        "variable": "imgLine2"
+      }
+    ]
+  },
+  "eaa87.svg": {
+    "file": "public/assets/figma/eaa87.svg",
+    "sources": [
+      {
+        "frame": "profile",
+        "variable": "imgLogout1"
+      }
+    ]
+  },
+  "19cc8.svg": {
+    "file": "public/assets/figma/19cc8.svg",
+    "sources": [
+      {
+        "frame": "profile",
+        "variable": "imgImage2"
+      }
+    ]
+  },
+  "afd8a.svg": {
+    "file": "public/assets/figma/afd8a.svg",
+    "sources": [
+      {
+        "frame": "wallets",
+        "variable": "imgUser"
+      }
+    ]
+  },
+  "6bc28.svg": {
+    "file": "public/assets/figma/6bc28.svg",
+    "sources": [
+      {
+        "frame": "wallets",
+        "variable": "imgLocation"
+      }
+    ]
+  },
+  "eef82.svg": {
+    "file": "public/assets/figma/eef82.svg",
+    "sources": [
+      {
+        "frame": "wallets",
+        "variable": "imgLogout1"
+      }
+    ]
+  },
+  "f7226.svg": {
+    "file": "public/assets/figma/f7226.svg",
+    "sources": [
+      {
+        "frame": "wallets",
+        "variable": "imgArrowDown1"
+      }
+    ]
+  },
+  "d1881.svg": {
+    "file": "public/assets/figma/d1881.svg",
+    "sources": [
+      {
+        "frame": "wallets",
+        "variable": "imgEllipse22"
+      }
+    ]
+  },
+  "352b3.svg": {
+    "file": "public/assets/figma/352b3.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgShop"
+      }
+    ]
+  },
+  "99dca.svg": {
+    "file": "public/assets/figma/99dca.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgUser"
+      }
+    ]
+  },
+  "ce4db.svg": {
+    "file": "public/assets/figma/ce4db.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgSearch"
+      }
+    ]
+  },
+  "bc3bf.svg": {
+    "file": "public/assets/figma/bc3bf.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgFilter"
+      }
+    ]
+  },
+  "f545d.svg": {
+    "file": "public/assets/figma/f545d.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgMaskGroup"
+      }
+    ]
+  },
+  "bf307.svg": {
+    "file": "public/assets/figma/bf307.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgArrowRight"
+      }
+    ]
+  },
+  "c6c5e.svg": {
+    "file": "public/assets/figma/c6c5e.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgFrame4"
+      }
+    ]
+  },
+  "88160.svg": {
+    "file": "public/assets/figma/88160.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgLine3"
+      }
+    ]
+  },
+  "364ee.svg": {
+    "file": "public/assets/figma/364ee.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgFrame410"
+      }
+    ]
+  },
+  "d6529.svg": {
+    "file": "public/assets/figma/d6529.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgGroup58"
+      }
+    ]
+  },
+  "3b81f.svg": {
+    "file": "public/assets/figma/3b81f.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgVector"
+      }
+    ]
+  },
+  "b1ba5.svg": {
+    "file": "public/assets/figma/b1ba5.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgEllipse39"
+      }
+    ]
+  },
+  "b096d.svg": {
+    "file": "public/assets/figma/b096d.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgHome"
+      }
+    ]
+  },
+  "c40be.svg": {
+    "file": "public/assets/figma/c40be.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgVector1"
+      }
+    ]
+  },
+  "d5458.svg": {
+    "file": "public/assets/figma/d5458.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgVector2"
+      }
+    ]
+  },
+  "f7581.svg": {
+    "file": "public/assets/figma/f7581.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgVector3"
+      }
+    ]
+  },
+  "97351.svg": {
+    "file": "public/assets/figma/97351.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgVector4"
+      }
+    ]
+  },
+  "db42b.svg": {
+    "file": "public/assets/figma/db42b.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgVector5"
+      }
+    ]
+  },
+  "ca931.svg": {
+    "file": "public/assets/figma/ca931.svg",
+    "sources": [
+      {
+        "frame": "mobile-home",
+        "variable": "imgVector6"
+      }
+    ]
+  },
+  "7bd86.svg": {
+    "file": "public/assets/figma/7bd86.svg",
+    "sources": [
+      {
+        "frame": "mobile-detail",
+        "variable": "imgGroup62"
+      }
+    ]
+  },
+  "0e8e8.svg": {
+    "file": "public/assets/figma/0e8e8.svg",
+    "sources": [
+      {
+        "frame": "mobile-detail",
+        "variable": "imgArrowLeft2"
+      }
+    ]
+  },
+  "e84fc.svg": {
+    "file": "public/assets/figma/e84fc.svg",
+    "sources": [
+      {
+        "frame": "mobile-detail",
+        "variable": "imgVector"
+      }
+    ]
+  },
+  "6c41c.svg": {
+    "file": "public/assets/figma/6c41c.svg",
+    "sources": [
+      {
+        "frame": "mobile-detail",
+        "variable": "imgStar"
+      }
+    ]
+  },
+  "dd0fb.svg": {
+    "file": "public/assets/figma/dd0fb.svg",
+    "sources": [
+      {
+        "frame": "mobile-detail",
+        "variable": "imgFrame"
+      }
+    ]
+  },
+  "3c537.svg": {
+    "file": "public/assets/figma/3c537.svg",
+    "sources": [
+      {
+        "frame": "mobile-detail",
+        "variable": "imgShop"
+      }
+    ]
+  },
+  "24586.svg": {
+    "file": "public/assets/figma/24586.svg",
+    "sources": [
+      {
+        "frame": "mobile-cart",
+        "variable": "imgEllipse38"
+      },
+      {
+        "frame": "mobile-checkout",
+        "variable": "imgEllipse38"
+      }
+    ]
+  },
+  "90c5a.svg": {
+    "file": "public/assets/figma/90c5a.svg",
+    "sources": [
+      {
+        "frame": "mobile-cart",
+        "variable": "imgArrowLeft2"
+      },
+      {
+        "frame": "mobile-checkout",
+        "variable": "imgArrowLeft2"
+      }
+    ]
+  },
+  "057e5.svg": {
+    "file": "public/assets/figma/057e5.svg",
+    "sources": [
+      {
+        "frame": "mobile-cart",
+        "variable": "imgGroup65"
+      }
+    ]
+  },
+  "79655.svg": {
+    "file": "public/assets/figma/79655.svg",
+    "sources": [
+      {
+        "frame": "mobile-cart",
+        "variable": "imgGroup72"
+      }
+    ]
+  },
+  "6afc8.svg": {
+    "file": "public/assets/figma/6afc8.svg",
+    "sources": [
+      {
+        "frame": "mobile-cart",
+        "variable": "imgDelete"
+      }
+    ]
+  },
+  "a616c.svg": {
+    "file": "public/assets/figma/a616c.svg",
+    "sources": [
+      {
+        "frame": "mobile-checkout",
+        "variable": "imgGroup87"
+      }
+    ]
+  },
+  "de520.svg": {
+    "file": "public/assets/figma/de520.svg",
+    "sources": [
+      {
+        "frame": "mobile-checkout",
+        "variable": "imgGroup90"
+      }
+    ]
+  },
+  "fd4f7.svg": {
+    "file": "public/assets/figma/fd4f7.svg",
+    "sources": [
+      {
+        "frame": "mobile-checkout",
+        "variable": "imgEllipse46"
+      }
+    ]
+  },
+  "a79bb.svg": {
+    "file": "public/assets/figma/a79bb.svg",
+    "sources": [
+      {
+        "frame": "mobile-checkout",
+        "variable": "imgEllipse44"
+      }
+    ]
+  },
+  "75870.svg": {
+    "file": "public/assets/figma/75870.svg",
+    "sources": [
+      {
+        "frame": "mobile-checkout",
+        "variable": "imgWallet"
+      }
+    ]
+  },
+  "f587b.svg": {
+    "file": "public/assets/figma/f587b.svg",
+    "sources": [
+      {
+        "frame": "mobile-login",
+        "variable": "imgLine7"
+      },
+      {
+        "frame": "mobile-signup",
+        "variable": "imgLine7"
+      }
+    ]
+  },
+  "76f46.svg": {
+    "file": "public/assets/figma/76f46.svg",
+    "sources": [
+      {
+        "frame": "mobile-login",
+        "variable": "imgHide"
+      },
+      {
+        "frame": "mobile-signup",
+        "variable": "imgHide"
+      }
+    ]
+  }
+}

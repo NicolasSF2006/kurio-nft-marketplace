@@ -1,0 +1,114 @@
+{
+  "tool": "sharp 0.35.5",
+  "format": "WebP quality 90, effort 6; original PNG preserved",
+  "manifest": [
+    {
+      "source": "public/assets/figma/8f387.png",
+      "sha256": "f20b58b99de12b6eceede2090607e4b999275bba95de7674bb14f26b59666b21",
+      "bytes": 1885435,
+      "variants": [
+        {
+          "width": 320,
+          "path": "public/assets/artwork/8f387-320.webp",
+          "bytes": 16864
+        },
+        {
+          "width": 640,
+          "path": "public/assets/artwork/8f387-640.webp",
+          "bytes": 48000
+        },
+        {
+          "width": 960,
+          "path": "public/assets/artwork/8f387-960.webp",
+          "bytes": 91378
+        },
+        {
+          "width": 1254,
+          "path": "public/assets/artwork/8f387-1254.webp",
+          "bytes": 132742
+        }
+      ]
+    },
+    {
+      "source": "public/assets/figma/83794.png",
+      "sha256": "9b25d8d72395aa62f919f6ad33b95b7ba7bbfee6049e95cf159a319b03ecb8d9",
+      "bytes": 2068526,
+      "variants": [
+        {
+          "width": 320,
+          "path": "public/assets/artwork/83794-320.webp",
+          "bytes": 14782
+        },
+        {
+          "width": 640,
+          "path": "public/assets/artwork/83794-640.webp",
+          "bytes": 49150
+        },
+        {
+          "width": 960,
+          "path": "public/assets/artwork/83794-960.webp",
+          "bytes": 111978
+        },
+        {
+          "width": 1254,
+          "path": "public/assets/artwork/83794-1254.webp",
+          "bytes": 182262
+        }
+      ]
+    },
+    {
+      "source": "public/assets/figma/9add2.png",
+      "sha256": "326df4c1c08c31c88b9f407e51be3991e46667183af62aa1501927adc76f52b5",
+      "bytes": 2027336,
+      "variants": [
+        {
+          "width": 320,
+          "path": "public/assets/artwork/9add2-320.webp",
+          "bytes": 13280
+        },
+        {
+          "width": 640,
+          "path": "public/assets/artwork/9add2-640.webp",
+          "bytes": 42130
+        },
+        {
+          "width": 960,
+          "path": "public/assets/artwork/9add2-960.webp",
+          "bytes": 83876
+        },
+        {
+          "width": 1254,
+          "path": "public/assets/artwork/9add2-1254.webp",
+          "bytes": 128050
+        }
+      ]
+    },
+    {
+      "source": "public/assets/figma/b7cfc.png",
+      "sha256": "2a42ba5adc341c3d0e1ad6905058e2762d995fc988113a7cd28b0d15f6a4ba28",
+      "bytes": 1978600,
+      "variants": [
+        {
+          "width": 320,
+          "path": "public/assets/artwork/b7cfc-320.webp",
+          "bytes": 17480
+        },
+        {
+          "width": 640,
+          "path": "public/assets/artwork/b7cfc-640.webp",
+          "bytes": 56106
+        },
+        {
+          "width": 960,
+          "path": "public/assets/artwork/b7cfc-960.webp",
+          "bytes": 116410
+        },
+        {
+          "width": 1254,
+          "path": "public/assets/artwork/b7cfc-1254.webp",
+          "bytes": 181086
+        }
+      ]
+    }
+  ]
+}
